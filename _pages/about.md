@@ -10,5 +10,5 @@ redirect_from:
 
 Hi, there! 👋
 
-I am a first year graduate student from [Institute of Computing Technology][http://www.ict.ac.cn/], [Chinese Academy of Sciences][https://www.cas.cn/]. My research interest includes computer network, recommendation system, machine learning and hardware acceleration.
+I am a first year graduate student from [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.cas.cn/). My research interest includes computer network, recommendation system, machine learning and hardware acceleration.
 
