@@ -14,9 +14,9 @@ I am a first year graduate student from the [Institute of Computing Technology](
 
 I did my undergraduate studies in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). During my undergraduate career, I worked on a number of projects on computer networks, artificial neural networks, graphics and cryptograph.
 
-You can find my CV [here](files/cv_qiaoyingan.pdf).
+You can find my CV [here](../files/Qiaoyin_GAN_CV.pdf).
 
-Email / Github / 
+[Email](mailto:ganqiaoyin23@mails.ucas.ac.cn) / [Github](https://github.com/qiaoyingan) / [WeChat](../images/QR_Code.JPG)
 
 
 
