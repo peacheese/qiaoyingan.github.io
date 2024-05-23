@@ -18,6 +18,8 @@ You can find my CV [here](../files/Qiaoyin_GAN_CV.pdf).
 
 [Email](mailto:ganqiaoyin23@mails.ucas.ac.cn) / [Github](https://github.com/qiaoyingan) / [WeChat](../images/QR_Code.JPG)
 
+(Last Update: 2023/08/01)
+
 
 
 
